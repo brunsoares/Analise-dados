@@ -9,9 +9,14 @@
  <h3>Conteúdo do repositório:</h3>
  <br/>
  <ol>
-  <li>Primeiro Capítulo:</li>
+   <li>Primeiro Capítulo:</li>
    <ul>
     <li>Lógica de Programação</li>
+    <li>Importância da Análise de dados</li>
+   </ul>
+   <br/>
+   <li>Segundo Capítulo:</li>
+   <ul>
     <li>Operadores Aritméticos</li>
     <li>Váriaveis</li>
     <li>Tipos de dados</li>
@@ -19,7 +24,7 @@
     <li>Recebimento e Tratamento de Dados</li>
    </ul>
    <br/>
-   <li>Segundo Capítulo:</li>
+   <li>Terceiro Capítulo:</li>
    <ul>
     <li>Condições Simples</li>
     <li>Condições Compostas</li>
@@ -28,7 +33,7 @@
     <li>Funções</li>
    </ul>
    <br/>
-   <li>Terceiro Capítulo:</li>
+   <li>Quarto Capítulo:</li>
    <ul>
     <li>Tratamento de Arquivos</li>
     <li>Módulos</li>
@@ -36,14 +41,14 @@
     <li>Funções Built-In</li>
    </ul>
    <br/>
-   <li>Quarto Capítulo:</li>
+   <li>Quinto Capítulo:</li>
    <ul>
     <li>Orientação a Objetos</li>
     <li>Classes e Objetos</li>
     <li>Conceitos</li>
    </ul>
    <br/>
-   <li>Quinto Capítulo:</li>
+   <li>Sexto Capítulo:</li>
    <ul>
     <li>Banco de Dados</li>
     <li>Estrutura do Banco</li>
@@ -56,12 +61,12 @@
     <li>Mini Projeto 01</li>
    </ul>
    <br/>
-   <li>Sexto Capítulo:</li>
+   <li>Sétimo Capítulo:</li>
    <ul>
     <li>Desafio Geral</li>
    </ul>
    <br/>
-   <li>Sétimo Capítulo:</li>
+   <li>Oitavo Capítulo:</li>
    <ul>
     <li>Módulos de Análise de Dados</li>
     <li>Numpy e Pandas</li>
@@ -73,7 +78,7 @@
     <li>Seaborn</li> 
    </ul>
    <br/>
-   <li>Oitavo Capítulo:</li>
+   <li>Nono Capítulo:</li>
    <ul>
     <li>Introdução a Análise de Dados</li>
     <li>Definindo Problema de Negócio</li>
@@ -85,7 +90,7 @@
     <li>Mini Projeto 02</li>
    </ul>
    <br/>
-   <li>Nono Capítulo:</li>
+   <li>Décimo Capítulo:</li>
    <ul>
     <li>Introdução ao TensorFlow</li>
     <li>Escalares, Vetores, Matrizes e Tensores</li>
@@ -95,7 +100,7 @@
     <li>Mini Projeto 03</li>
    </ul>
    <br/>
-   <li>Décimo Capítulo:</li>
+   <li>Décimo Primeiro Capítulo:</li>
    <ul>
     <li>Introdução a Machine Learn</li>
     <li>Aprendizagem Supervisionada</li>
@@ -109,7 +114,7 @@
     <li>Criação do Modelo</li>
    </ul>
    <br/>
-   <li>Décimo Primeiro Capítulo:</li>
+   <li>Décimo Segundo Capítulo:</li>
    <ul>
     <li>Introdução Deep Learning</li>
     <li>Redes Neurais</li>
@@ -118,7 +123,7 @@
     <li>Mini Projeto 04</li>
    </ul>
    <br/>
-   <li>Décimo Segundo Capítulo:</li>
+   <li>Décimo Terceiro Capítulo:</li>
    <ul>
     <li>Desenvolvimento WEB</li>
     <li>Frameworks</li>
@@ -128,7 +133,7 @@
     <li>Camadas de Apresentação</li>
    </ul>
    <br/>
-   <li>Décimo Terceiro Capítulo:</li>
+   <li>Décimo Quarto Capítulo:</li>
    <ul>
     <li>Introdução WEB Scraping</li>
     <li>Conceitos Legais e Ilegais</li>
