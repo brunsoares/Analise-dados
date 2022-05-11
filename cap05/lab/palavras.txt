@@ -1,0 +1,9 @@
+bola
+feijao
+sinuca
+taco
+skate
+navio
+pergunta
+nome
+python
